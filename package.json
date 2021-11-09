@@ -1,0 +1,23 @@
+{
+  "name": "projectyoann",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i src/style.css -o public/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minkailou/ProjectYoann.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Minkailou/ProjectYoann/issues"
+  },
+  "homepage": "https://github.com/Minkailou/ProjectYoann#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  }
+}
